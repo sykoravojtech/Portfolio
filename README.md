@@ -95,4 +95,3 @@ Thank you Sibi Siddharth S for inspiration for this portfolio
 - [] navbar on top sometimes starts appearing and dissapearing
 - [] fix tags in projects being half cut on some cards
 - [] under intro add a section with personal info about me life phone number and location and stuff like that
-- [] add a licences and certifications section
